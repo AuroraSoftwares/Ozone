@@ -1,7 +1,7 @@
 /*!
  * Ozone-v1.0
  * ozone.js
- * Copyright : ©2020 | AuroraSoftwares
+ * Copyright : ©2021 | Aurora Softwares
  */
 
 (function (global, factory) 
